@@ -36,15 +36,15 @@ Reasons for absence can include:
 
 Each status modification should be timestamped with the user who made the modification (the last modification).
 
-### Webpages Preview
-#### Login Page
+### Webpages Previews
+#### Login Page:
 ![image](https://github.com/CodeNinjaTech/PHP-Attendance-Tracking-System/assets/143879796/434a43bf-2512-47fa-8096-0b2de6bf6e65)
 
-#### Attendance Tracking Admin Page
+#### Attendance Tracking Admin Page:
 ![image](https://github.com/CodeNinjaTech/PHP-Attendance-Tracking-System/assets/143879796/47f75d70-6622-483c-be6b-1f8c8541263b)
 
-#### Student Attendance Edit Page
+#### Student Attendance Edit Page:
 ![Screenshot 2024-03-23 201726](https://github.com/CodeNinjaTech/PHP-Attendance-Tracking-System/assets/143879796/52450893-1f58-4e1e-98ee-f9fbf85a97ec)
 
-#### View Students Page
+#### View Students Page:
 ![image](https://github.com/CodeNinjaTech/PHP-Attendance-Tracking-System/assets/143879796/21bb486d-ff1a-4826-8054-225daa4f2e98)
