@@ -47,4 +47,5 @@ Each status modification should be timestamped with the user who made the modifi
 ![Screenshot 2024-03-23 201726](https://github.com/CodeNinjaTech/PHP-Attendance-Tracking-System/assets/143879796/52450893-1f58-4e1e-98ee-f9fbf85a97ec)
 
 #### View Students Page:
-![image](https://github.com/CodeNinjaTech/PHP-Attendance-Tracking-System/assets/143879796/21bb486d-ff1a-4826-8054-225daa4f2e98)
+![Screenshot 2024-03-23 201836](https://github.com/CodeNinjaTech/PHP-Attendance-Tracking-System/assets/143879796/5b7b19ab-fc36-47fb-abe3-0c0d5b41d4d9)
+
